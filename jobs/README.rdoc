@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The task is to create a job posting board that I can use throughout the job hunt.  I should be able to log in and out, once logged in I should be able to see a list of all the job posting I have created.  When you create a job a title is required, you will also have the option to fill out a job URL, location, any notes I may have, date applied, and the status.
 
-Things you may want to cover:
+You will be able to create the new job and update and edit it.  I am not giving it an option to destroy because I want to keep a record of it.
 
-* Ruby version
+Should be able to upload attachments for each job specifically a resume (which will proably be the same for all jobs but whatever, and a cover letter which will change job to job)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+you should be able to see all job by status ( ones applied, not applied, rejected etc..) or by location.
